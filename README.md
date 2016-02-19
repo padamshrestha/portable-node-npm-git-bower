@@ -11,6 +11,7 @@ Steps
 
 
 Resource:
+
  Node - https://nodejs.org/dist/v4.3.1/win-x64/node.exe
  
  Npm - https://nodejs.org/dist/npm/npm-1.4.9.zip (with upgrade)
