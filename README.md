@@ -9,6 +9,7 @@ Steps
 - Click (Run) runmefirst.bat 
 - Now the command console is ready for node, npm, git and bower
 
+Run : npm install -g grunt-cli (for grunt)
 
 Resource:
 
