@@ -12,11 +12,11 @@ Steps
 
 Resource:
 
- Node - https://nodejs.org/dist/v4.3.1/win-x64/node.exe
+ Node (v4.3.1) - https://nodejs.org/dist/v4.3.1/win-x64/node.exe
  
- Npm - https://nodejs.org/dist/npm/npm-1.4.9.zip (with upgrade)
+ Npm (1.4.9) - https://nodejs.org/dist/npm/npm-1.4.9.zip (with upgrade)
  
- Git - https://github.com/github/msysgit/tree/PortableGit
+ Git (1.7.7) - https://github.com/github/msysgit/tree/PortableGit
  
 
 
